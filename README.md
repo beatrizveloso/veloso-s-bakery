@@ -1,5 +1,5 @@
 # Página Web de uma padaria desenvolvida com Html, Css e JavaScript
-![image](https://github.com/user-attachments/assets/d0c8f344-57a3-4393-aa48-5dfc473c661e)
+![Uploading image.png…]()
 ![image](https://github.com/user-attachments/assets/079d9077-a2aa-4cd8-bbcc-b878a4b6213d)
 ![image](https://github.com/user-attachments/assets/1a6c6285-7610-41ea-a09a-623731b39f74)
 ![image](https://github.com/user-attachments/assets/6c382f62-85b9-419f-86c6-24b6a72452ee)
